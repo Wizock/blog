@@ -1,0 +1,28 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "A blog about projects that you are working on. cool technologies that you are working on regarding programming.",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "console.log(\"Hello world\");",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wizock/Programming-blog.git"
+  },
+  "keywords": [
+    "programming-blog"
+  ],
+  "author": "Wizock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wizock/Programming-blog/issues"
+  },
+  "homepage": "https://github.com/Wizock/Programming-blog#readme"
+}
